@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Jon Wheeler
+jobTitle: Chief Executive Officer
+location: Virginia Beach, VA US.
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/jon-wheeler-virginia-beach.jpeg
+  alt: Jon Wheeler - Virginia Beach
+siteUrl: https://www.jonwheeler.me/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/jon-s-wheeler-b778112b
     label: Visit
     show: true
   pinterest:
